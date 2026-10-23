@@ -1,0 +1,28 @@
+/**
+ * Academic Reference: CSS3 Layout Systems (Weeks 1-3)
+ * Demonstrating CSS Flexbox, Grid, Specificity, and Media Queries
+ */
+
+/* 1. CSS Flexbox (One-Dimensional Navigation & Alignment) */
+.academic-flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* 2. CSS Grid (Two-Dimensional Responsive Product Catalogue Grid) */
+.academic-grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+/* 3. Responsive Media Queries */
+@media (max-width: 768px) {
+  .academic-flex-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

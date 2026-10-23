@@ -1,0 +1,6 @@
+{
+  "name": "Product Catalogue - Academic Web Technologies Suite",
+  "description": "A comprehensive college Web Technologies lab project featuring a full-featured e-commerce product catalogue, Angular component architecture, and interactive academic demonstration modules for all 14 curriculum weeks (HTML5, CSS3, JS DOM, XML & DTD, AJAX/Fetch, TypeScript, and Angular).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

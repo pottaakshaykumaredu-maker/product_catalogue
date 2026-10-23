@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "products.dtd">
+<catalogue version="1.0" lastUpdated="2026-10-23">
+  <product id="prod_1" category="Electronics" featured="true">
+    <id>1</id>
+    <name>Sony WH-1000XM5 Wireless Headphones</name>
+    <category>Electronics</category>
+    <description>Industry-leading noise canceling headphones with dual processors and 8 microphones.</description>
+    <price currency="USD">348.00</price>
+    <originalPrice>399.99</originalPrice>
+    <rating>4.8</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>42</stockCount>
+    <image>https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>ELEC-SONY-001</sku>
+  </product>
+
+  <product id="prod_2" category="Electronics" featured="true">
+    <id>2</id>
+    <name>Apple MacBook Air M3 13-inch</name>
+    <category>Electronics</category>
+    <description>Blazing-fast 8-core CPU, 10-core GPU, 16GB Unified Memory, and Liquid Retina display.</description>
+    <price currency="USD">1099.00</price>
+    <originalPrice>1199.00</originalPrice>
+    <rating>4.9</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>18</stockCount>
+    <image>https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>ELEC-APPL-002</sku>
+  </product>
+
+  <product id="prod_4" category="Clothing" featured="false">
+    <id>4</id>
+    <name>Classic Merino Wool Crewneck Sweater</name>
+    <category>Clothing</category>
+    <description>Ultra-fine Australian 100% merino wool knit providing lightweight natural warmth.</description>
+    <price currency="USD">89.50</price>
+    <originalPrice>120.00</originalPrice>
+    <rating>4.6</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>35</stockCount>
+    <image>https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>CLOT-WOOL-004</sku>
+  </product>
+
+  <product id="prod_6" category="Books" featured="true">
+    <id>6</id>
+    <name>Designing Data-Intensive Applications</name>
+    <category>Books</category>
+    <description>By Martin Kleppmann. Guide to distributed storage, consensus, and system scalability.</description>
+    <price currency="USD">42.99</price>
+    <originalPrice>49.99</originalPrice>
+    <rating>4.9</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>55</stockCount>
+    <image>https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>BOOK-DDIA-006</sku>
+  </product>
+
+  <product id="prod_8" category="Home &amp; Kitchen" featured="true">
+    <id>8</id>
+    <name>Stagg EKG Electric Gooseneck Kettle</name>
+    <category>Home &amp; Kitchen</category>
+    <description>Precision temperature control pour-over electric kettle with LCD display screen.</description>
+    <price currency="USD">165.00</price>
+    <originalPrice>195.00</originalPrice>
+    <rating>4.8</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>28</stockCount>
+    <image>https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>HOME-KETT-008</sku>
+  </product>
+
+  <product id="prod_10" category="Sports" featured="false">
+    <id>10</id>
+    <name>Pro Aerobic Speed Jump Rope</name>
+    <category>Sports</category>
+    <description>Adjustable steel wire speed cable with dual 360-degree ball bearings.</description>
+    <price currency="USD">24.99</price>
+    <originalPrice>29.99</originalPrice>
+    <rating>4.6</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>60</stockCount>
+    <image>https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>SPRT-ROPE-010</sku>
+  </product>
+
+  <product id="prod_12" category="Beauty" featured="true">
+    <id>12</id>
+    <name>Hyaluronic Acid Hydrating Serum</name>
+    <category>Beauty</category>
+    <description>Triple-molecular weight hyaluronic acid formula enriched with vitamin B5.</description>
+    <price currency="USD">28.00</price>
+    <originalPrice>35.00</originalPrice>
+    <rating>4.9</rating>
+    <stockStatus>In Stock</stockStatus>
+    <stockCount>75</stockCount>
+    <image>https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>BEAU-HYAL-012</sku>
+  </product>
+
+  <product id="prod_15" category="Accessories" featured="true">
+    <id>15</id>
+    <name>Chronograph Stainless Steel Watch</name>
+    <category>Accessories</category>
+    <description>40mm surgical-grade steel case with sapphire crystal and quartz movement.</description>
+    <price currency="USD">185.00</price>
+    <originalPrice>225.00</originalPrice>
+    <rating>4.9</rating>
+    <stockStatus>Low Stock</stockStatus>
+    <stockCount>5</stockCount>
+    <image>https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    <sku>ACCS-WTCH-015</sku>
+  </product>
+</catalogue>

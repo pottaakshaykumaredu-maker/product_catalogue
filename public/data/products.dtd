@@ -1,0 +1,31 @@
+<!--
+  Document Type Definition (DTD) for College Web Technologies Practical - Week 6
+  Product Catalogue Schema Specification
+-->
+<!ELEMENT catalogue (product+)>
+<!ATTLIST catalogue
+  version CDATA #REQUIRED
+  lastUpdated CDATA #REQUIRED
+>
+
+<!ELEMENT product (id, name, category, description, price, originalPrice?, rating, stockStatus, stockCount, image, sku)>
+<!ATTLIST product
+  id ID #REQUIRED
+  category CDATA #REQUIRED
+  featured (true | false) "false"
+>
+
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price
+  currency CDATA "USD"
+>
+<!ELEMENT originalPrice (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT stockStatus (#PCDATA)>
+<!ELEMENT stockCount (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT sku (#PCDATA)>

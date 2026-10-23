@@ -1,0 +1,24 @@
+# ==============================================================================
+# Product Catalogue - Plain Text Inventory Manifest (Academic AJAX Practical)
+# Course: Web Technologies Laboratory (Academic Week 8 Demonstration)
+# Format: TSV / Text Data Stream for XMLHttpRequest & Fetch response.text()
+# ==============================================================================
+ID	SKU	NAME	CATEGORY	PRICE	STOCK
+1	ELEC-SONY-001	Sony WH-1000XM5 Wireless Headphones	Electronics	348.00	42
+2	ELEC-APPL-002	Apple MacBook Air M3 13-inch	Electronics	1099.00	18
+3	ELEC-LOGI-003	Logitech MX Master 3S Wireless Mouse	Electronics	99.99	4
+4	CLOT-WOOL-004	Classic Merino Wool Crewneck Sweater	Clothing	89.50	35
+5	CLOT-DNM-005	Tailored Selvedge Denim Jacket	Clothing	145.00	20
+6	BOOK-DDIA-006	Designing Data-Intensive Applications	Books	42.99	55
+7	BOOK-CLNC-007	Clean Code: Agile Software Craftsmanship	Books	38.50	40
+8	HOME-KETT-008	Stagg EKG Electric Gooseneck Kettle	Home & Kitchen	165.00	28
+9	HOME-DTCH-009	Cast Iron Dutch Oven 5.5 Quart	Home & Kitchen	79.99	16
+10	SPRT-ROPE-010	Pro Aerobic Speed Jump Rope	Sports	24.99	60
+11	SPRT-YOGA-011	High-Density Foam Yoga & Fitness Mat	Sports	36.00	3
+12	BEAU-HYAL-012	Hyaluronic Acid Hydrating Serum	Beauty	28.00	75
+13	BEAU-OIL-013	Vitamin C Radiance Daily Face Oil	Beauty	34.50	32
+14	ACCS-WALL-014	Minimalist Full-Grain Leather Wallet	Accessories	48.00	27
+15	ACCS-WTCH-015	Chronograph Stainless Steel Watch	Accessories	185.00	5
+16	ELEC-KEYB-016	Mechanical Keyboard with Hot-Swappable Switches	Electronics	119.00	22
+17	ACCS-SUNG-017	Polarized Acetate Sunglasses	Accessories	65.00	0
+18	CLOT-TSHT-018	Organic Cotton Relaxed Fit T-Shirt	Clothing	28.00	50
